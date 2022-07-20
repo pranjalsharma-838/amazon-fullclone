@@ -1,0 +1,25 @@
+.footer{
+    background-color: black;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.footerContainer{
+    padding: 40px;
+    display: flex;
+    color:white;
+    justify-content:space-evenly;
+    font-size: smaller;
+    margin-bottom: 1    0px;
+    padding-bottom: 30px;
+}
+.footerRow > p{
+    padding:2px;
+
+}
+.footerIcon{
+    color:white;
+    font-size: large;
+    display: flex;
+    justify-content:center;
+    padding-bottom: 30px;
+}
